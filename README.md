@@ -3,7 +3,7 @@
 
 - 👨‍💻 Actualmente trabajo en el proyecto de [Agritracer](https://agritracer.pe/)
 
-- 🌱 I’m currently learning **Kotlin Multiplataforma, Microservicio**
+- 🌱 Actualmente estoy aprendiendo **Kotlin Multiplataforma, Microservicio**
 
 - 💬 Puedes preguntarme sobre **Kotlin, Nodejs, PHP**
 
