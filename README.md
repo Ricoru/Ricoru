@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Buddy Oruna</h1>
+<h1 align="center">Hola, Soy Richard Oruna</h1>
 <h3 align="center">Soy developer fullstack en Perú, trabajo actualmente en una empresa de TI que brinda servicios para empresas agrícola</h3>
 
 - 👨‍💻 Actualmente trabajo en el proyecto de [Agritracer](https://agritracer.pe/)
